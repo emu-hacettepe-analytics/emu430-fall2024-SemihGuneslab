@@ -2,29 +2,17 @@
 title: "About Me"
 sidebar: false 
 ---
+[Click for My CV](https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=06f47fda85&attid=0.1&permmsgid=msg-a:r-4031695819251197288&th=192cf20137d98c86&view=att&disp=inline&saddbat=ANGjdJ9dKOxzbUu5CBVHnE0D2WyWGfpwHAnIzj7_oOV0BqyWxWR2EtQNd9jxRJmfxa0N5z1Di-jZvOqwweNTNeGsMa3SrUXrqFtHj9iKoRfOyIiFwfEbTmdBHxlmFsqwwPrHAj_R_UthFrDfS3qlvM3ybXHCRjSxZM_0QQtpP0rWlI0OOLGwdkOjazNmnKKuQKphpQNQeP3VXttZFsQaDhzYpSR3bX9lSOccUpbl7d6kPLyWOrwplBMTPCp5OUxeBeBxIseTPBMQE8kiIxKR7Alrlbhn3l0PTMSi9wKdT2Ib-2NnS3541LkF4eJipkHbIbMOehdqWI6vKqkiknnSJyZtvlePvb1XJilLpuuiCJ0j_RodtGi2JLc-lSuvyiX85bpJ4dppQq8Is5BNVZWY6ChGP0OsuJ8HlP7M34LVKR0brt_WwkgwIKqpNxC_2vNBt9IT_pqdZgjsfACgvAwcKpIUaLr9GtoR50VGYi8CoMaMuoDHg7n-n4q5XiekXakaaKSQPmZPLUT8hCoLoPg21RIaIIMGgMx7FmwkQsO-FqmRswrTDmAh31Qiylht0bxEr1pQV_udOV-4Y3bCmbRuxCtgT1-4iA_rCsuGoGywBI9PEULT1mPkEX37I4nuILVKLHHKq9kyOChLE2DncJe9H39xr1UEtB5Qw86zrfPDTToZeQSgVmbvAC5OG2PBq06NWjb1nrdo4qSLSmRWcwUulIibcc63a66up04eTmK77qrfLOB5SHapYnGElPhoM89kCRF687amaCS6k2ECjNjBV1r_UXIy8IVZRRXVJ7MkOtqWK6ZaPTSliKvCLyb0Ii41qwMGPCOXVQ3NoiODrV21J8HR2nwOc15hd5KSvg0GMleZGufpVTv9KLgwLnIx_BYjIhgZcrueoKTAS5Yye6bqsMls6TP5Z7FmyzFHTthkr7LbDr3OJq1YUHjZcR0N5KhFdngtJ2us9ePi5PswPxvFl0psPYS7vE9oz4Jx5WX8r_Ehc6fgxqU5N-8qHMve9ABeaBCPHUQvij1qStHsN43V3mVQ69PXTDhZDdeAryrUQg)
 
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
-
-# Work Experience
-
-## Employements
-
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
-
-## Internships
-
-1.  Firm aaa, position xx, year xxx
-
-2.  Firm bbb, position yyy, year yyy
-
-# Projects
+-   B.S., Industrial Engineering, Hacettepe University, Turkey, 2020 - ongoing.
 
 # Competencies
 
-R, Quarto, Git, Python
+R, Quarto, Git, Python, Canva
 
 # Hobbies
+
+Swimming, soccer,chess
+

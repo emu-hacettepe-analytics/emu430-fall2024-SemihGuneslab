@@ -5,11 +5,58 @@ title: "Assignment 1"
 # Assignment 1
 
 ```{r}
-1 + 1
+
+
+
+
+library("dslabs")
+
+ data("polls_us_election_2016")
+ 
+ 
+head(polls_us_election_2016, 10)
+
+total_na <- sum(is.na(polls_us_election_2016))
+print(total_na)
+# Doğum yılım ve adım
+birth_year <- 2002  
+first_name <- "Semih"  
+
+# NA değerlerini değiştirdim
+polls_us_election_2016_modified <- polls_us_election_2016
+
+# Sayısal sütunlar için doğum yılımı girme
+polls_us_election_2016_modified[sapply(polls_us_election_2016_modified, is.numeric)] <- 
+  lapply(polls_us_election_2016_modified[sapply(polls_us_election_2016_modified, is.numeric)], 
+         function(x) ifelse(is.na(x), birth_year, x))
+
+# Karakter veya faktör sütunlar için ismimi girme
+polls_us_election_2016_modified[sapply(polls_us_election_2016_modified, is.character)] <- 
+  lapply(polls_us_election_2016_modified[sapply(polls_us_election_2016_modified, is.character)], 
+         function(x) ifelse(is.na(x), first_name, x))
+
+polls_us_election_2016_modified[sapply(polls_us_election_2016_modified, is.factor)] <- 
+  lapply(polls_us_election_2016_modified[sapply(polls_us_election_2016_modified, is.factor)], 
+         function(x) ifelse(is.na(x), first_name, x))
+
+# Yeni veri çerçevesinin ilk 10 satırını görüntüleme
+head(polls_us_election_2016_modified, 10)
+
+# Kalan NA değerlerinin sayısını hesaplama eğer varsa
+remaining_na <- sum(is.na(polls_us_election_2016_modified))
+print(remaining_na)
+
+ 
+ 
+
+
 ```
 
 My first assignment has two parts.
 
-## (a)
+## (a) 
+During the presentation, Bayal Hoca introduces the data analytics course and talks about different analytical methods, such as descriptive, diagnostic, predictive, and prescriptive analytics. He also shares his experience with data science tools and optimization solutions, emphasizing the importance of defining problems clearly at the beginning of projects. He explains how optimization works and provides insights on how to manage projects successfully. He offers practical advice for students, especially regarding the challenges they might face when entering the professional world.
+
+He also answers questions from the audience about topics like career development, artificial intelligence, optimization, and academic studies. One of the key points he stresses is the importance of mastering mathematical modeling and programming languages (especially Python) to succeed in these fields.
 
 ## (b)
