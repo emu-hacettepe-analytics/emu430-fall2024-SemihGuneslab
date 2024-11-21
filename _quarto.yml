@@ -9,10 +9,13 @@ website:
     left:
       - text: Home
         href: index.qmd
+        icon: house
       - text: About Me
         href: about.qmd
+        icon: person
       - text: My Posts
         href: posts.qmd
+        icon: file-earmark-text
       - text: "EMU430 Coursework"
         menu:
           - text: Assignments
