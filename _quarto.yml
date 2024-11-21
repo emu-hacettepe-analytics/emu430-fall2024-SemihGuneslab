@@ -22,11 +22,9 @@ website:
             
     tools:
       - icon: github
-        href: https://twitter.com
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/SemihGuneslab
       - icon: linkedin
-        href: https://linkedin.com
+        href: https://www.linkedin.com/in/semih-g%C3%BCne%C5%9F-b614511b7/
 
   sidebar:
     - title: "Assignments"
@@ -35,7 +33,7 @@ website:
       contents:
         - assignments.qmd
         - assignments/assignment-1.qmd
-        - assignments/assignment-2.qmd  
+        - assignments/assignment-2.qmd
   page-navigation: true
   back-to-top-navigation: true
   page-footer:
