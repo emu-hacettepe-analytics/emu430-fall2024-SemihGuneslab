@@ -4,6 +4,15 @@ title: "Assignment 1"
 
 # Assignment 1
 
+My first assignment has two parts.
+
+## (a) 
+During the presentation, Bayal Hoca introduces the data analytics course and talks about different analytical methods, such as descriptive, diagnostic, predictive, and prescriptive analytics. He also shares his experience with data science tools and optimization solutions, emphasizing the importance of defining problems clearly at the beginning of projects. He explains how optimization works and provides insights on how to manage projects successfully. He offers practical advice for students, especially regarding the challenges they might face when entering the professional world.
+
+He also answers questions from the audience about topics like career development, artificial intelligence, optimization, and academic studies. One of the key points he stresses is the importance of mastering mathematical modeling and programming languages (especially Python) to succeed in these fields.
+
+## (b)
+
 ```{r}
 
 
@@ -52,11 +61,6 @@ print(remaining_na)
 
 ```
 
-My first assignment has two parts.
 
-## (a) 
-During the presentation, Bayal Hoca introduces the data analytics course and talks about different analytical methods, such as descriptive, diagnostic, predictive, and prescriptive analytics. He also shares his experience with data science tools and optimization solutions, emphasizing the importance of defining problems clearly at the beginning of projects. He explains how optimization works and provides insights on how to manage projects successfully. He offers practical advice for students, especially regarding the challenges they might face when entering the professional world.
 
-He also answers questions from the audience about topics like career development, artificial intelligence, optimization, and academic studies. One of the key points he stresses is the importance of mastering mathematical modeling and programming languages (especially Python) to succeed in these fields.
 
-## (b)
